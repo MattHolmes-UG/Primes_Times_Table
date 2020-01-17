@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+
+table {
+  text-align: center;
+  border: 1px solid grey;
+  margin-top: 1em;
+  border-spacing: 0;
+}
+
+tr:nth-child(2n) {
+  background-color: lightgrey;
+}
+
+tr:first-child {
+  font-weight: bold;
+}
+td {
+  width: 3em;
+  height: 3em;
+}
+td:first-child {
+  font-weight: bold;
+}
