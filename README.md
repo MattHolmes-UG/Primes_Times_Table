@@ -1,18 +1,18 @@
-# Primegen
+# PrimeTimesTable
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
-## Development server
+##Running the app
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+1. Download or clone the repository to PC. 
 
-## Code scaffolding
+2. Make sure to have node and npm installed. 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+3. Run `npm install` to install all dependencies
 
-## Build
+4. Run `ng serve` to start up local dev server on port 4200
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+5. Open `http://localhost:4200` in browser. 
 
 ## Running unit tests
 
